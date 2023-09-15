@@ -1,4 +1,4 @@
-Schedule to ICS Converter
+##Schedule to ICS Converter
 Overview
 The Schedule to ICS Converter is a Python program that takes a picture of a class schedule as input and generates an ICS (iCalendar) file. This ICS file can be imported into calendar applications such as Google Calendar, Apple Calendar, or Microsoft Outlook to create events for each class from the schedule.
 
